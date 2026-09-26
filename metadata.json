@@ -1,0 +1,6 @@
+{
+  "name": "NetONT Gateway & WiFi Admin Portal",
+  "description": "Local network scanner, gateway IP redirector, and Optical Network Terminal (ONT) admin console for managing WiFi, connected devices, and fiber optic connection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
